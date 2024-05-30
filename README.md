@@ -1,1 +1,3 @@
-# Bayesian-Data-Analysis-Project---Aalto-2023
+# Credit Score Prediction Using Hamiltonian MCMC Methods
+
+
