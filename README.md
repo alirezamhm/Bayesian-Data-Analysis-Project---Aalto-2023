@@ -1,3 +1,3 @@
 # Credit Score Prediction Using Hamiltonian MCMC Methods
 
-
+Credit score prediction is a crucial aspect of financial analysis, assisting in risk assessment, loan approval, and financial decision-making processes. In this project, we used techniques of Bayesian data analy- sis to predict credit scores using a dataset containing information from 1000 customers. Key features such as income, savings, debt, and other relevant financial indicators are leveraged to build predictive models. Moreover, we separated customers based on their gambling habits into three distinct groups: non-gamblers, low-gamblers, and high-gamblers. By changing the dataset in this manner, we aim to test differences in credit scores among these groups, shedding light on the potential impact of gambling behavior on individuals’ financial health.
